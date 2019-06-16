@@ -5,6 +5,7 @@ class Home extends Component {
     super(props)
   }
   render(){
+    console.log(this.props)
     return (<div>
     		首页
     	</div>);
